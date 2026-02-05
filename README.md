@@ -1,9 +1,9 @@
-</p>
-
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+       alt="Programmer animation" 
+       width="400" 
+       height="250" />
 </div>
-
 
 ###
 # Hi What's up! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
